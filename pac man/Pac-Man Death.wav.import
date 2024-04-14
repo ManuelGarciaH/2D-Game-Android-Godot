@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://xenkv3kyed5t"
+path="res://.godot/imported/Pac-Man Death.wav-961093736943da387b9f89798d8dab69.sample"
+
+[deps]
+
+source_file="res://pac man/Pac-Man Death.wav"
+dest_files=["res://.godot/imported/Pac-Man Death.wav-961093736943da387b9f89798d8dab69.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
